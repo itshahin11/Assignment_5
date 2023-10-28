@@ -1,0 +1,2 @@
+admin|admin@gmail.com|$2y$10$plPr2v2FFfDkmq.Ro8oh7OwX3ogSCNFFMlHAqYWQc.CyhmTCkCQFW
+user|user@gmail.com|$2y$10$w.vtIuWMOcE/LHv/KuqH3uARXtYkz7fUoKqkUh7.a5iyi30ZvycAC
